@@ -1,2 +1,2 @@
 # thinker
-A social experiment for open sourcing my mind for community feedback and mindset healing
+A social experiment for open sourcing our minds for community feedback and mindset healing
